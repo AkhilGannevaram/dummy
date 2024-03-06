@@ -8,6 +8,15 @@
 			"problemMatcher": [],
 			"label": "npm: start - counter",
 			"detail": "react-scripts start"
+		},
+		{
+			"type": "npm",
+			"script": "build",
+			"path": "Bg-onchange",
+			"group": "build",
+			"problemMatcher": [],
+			"label": "npm: build - Bg-onchange",
+			"detail": "vite build"
 		}
 	]
 }
